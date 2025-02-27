@@ -26,6 +26,6 @@ python bot.py
     </code></pre>
 
 <h2>📷 Скриншоты</h2>
-    <p><img src="" alt="Screenshot"></p>
+    <p><img src="Screenshot 2025-02-27 180730.png" alt="Screenshot"></p>
 </body>
 </html>
